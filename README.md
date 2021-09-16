@@ -21,3 +21,5 @@ nm p 1
 rebase stacked 
 
 rebase stacked 2
+
+nm stacked
