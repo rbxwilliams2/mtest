@@ -1,4 +1,4 @@
-# mtest
+# mtest nm p - p c
 
 pr 1 1
 
