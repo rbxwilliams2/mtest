@@ -1,6 +1,6 @@
 # mtest nm p - p c
 
-pr 1 1
+pr 1 1 nm p 2
 
 conflict
 
