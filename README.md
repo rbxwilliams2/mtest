@@ -23,3 +23,5 @@ rebase stacked
 rebase stacked 2
 
 nm stacked
+
+nm stacked 2
