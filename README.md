@@ -32,4 +32,4 @@ DEPLO DPELO
 
 DEPLO
 
-long cycle time
+long cycle time x 2
