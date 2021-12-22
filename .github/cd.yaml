@@ -1,0 +1,19 @@
+name: Deploy
+on:
+  push:
+    branches:
+    - main # or the name of your main branch
+
+jobs:
+  deploy:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - name: checkout
+      uses: actions/checkout@v2
+    - name: deps
+      uses: actions/checkout@v2
+    - name: tests
+      uses: actions/checkout@v2
+    - name: deploy
+      uses: actions/checkout@v2
