@@ -1,8 +1,8 @@
-# mtest nm p - p c
+# Create staging branch
 
-pr 1 1 nm p 2
+staging pr 1
 
-conflict
+trigger action
 
 conf
 
@@ -33,3 +33,4 @@ DEPLO DPELO
 DEPLO
 
 long cycle time x 2
+trigger cd workflow
