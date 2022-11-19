@@ -11,3 +11,4 @@ linear.reeval2()
 linear.reeval3()
 linear.commentsAreIgnored() // - this is new work
 linear.newWork2()
+linear.deploy()
