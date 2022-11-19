@@ -9,12 +9,5 @@ linear.reeval2()
 linear.reeval3()
 linear.reeval2()
 linear.reeval3()
-
-
-// removed for brevity
-
-// this is new work
-// this is also new work
-// new work 1
-// not churn, right?
-// not churn, right?
+linear.commentsAreIgnored() // - this is new work
+linear.newWork2()
