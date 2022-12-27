@@ -36,3 +36,5 @@ long cycle time x 2
 trigger cd workflow
 
 new work
+
+open pr
